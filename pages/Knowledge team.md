@@ -1,0 +1,14 @@
+- ## Description
+-
+- ## Team
+	- {{embed [[Dmitry Korzhov]]}}
+- ## Projects
+	- [[Data Sources]]
+- ## Objects description
+	- Projects.
+	- Titles.
+	- Properties.
+	- Tags.
+	- Tasks.
+- ## Templates
+	-
