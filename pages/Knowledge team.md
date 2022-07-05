@@ -12,4 +12,4 @@
 	- Tags.
 	- Tasks.
 - ## Templates
-	-
+	- [[Page properties]]

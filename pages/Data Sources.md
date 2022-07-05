@@ -14,8 +14,10 @@
   CLOCK: [2022-07-04 Mon 16:37:41]--[2022-07-04 Mon 16:37:42] =>  00:00:01
   :END:
 - TODO Approve Logseq UI structure for clients #2022 #Q4 #task
+  id:: 62c3758c-fbe9-44b6-a5ed-e684321d2e71
 - TODO Describe all the sources (take the 20 most popular for MVP) #2022 #Q4 #task
 - TODO Implement all this inside Logseq / other tool #2022 #Q4 #task
+- TODO Do something new #2022 #Q4 #task
 - ## Local tags
 	- #loc_data_sources_structure_description
 	- #loc_data_sources_structure_pros
@@ -23,7 +25,7 @@
 - ## Materials, links & pages
 	- [[Structure of data source]] #2022 #Q4 #page
 	- [[Competitors structure]] #2022 #Q4 #page
-	- [[New page]]
-	- [[It's test page!]]
+	- [[New page.]] #2022 #Q4 #page
+	- [Application in Fivetran](https://fivetran.com/docs/applications/amplitude) #2022 #Q4 #link
 -
 -
